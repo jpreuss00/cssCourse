@@ -1,0 +1,41 @@
+.container{
+background-color:grey;
+}
+
+.box{
+width: 100px;
+height: 100px;
+background-color: pink;
+float: left;
+margin: 10px;
+}
+
+.clear{
+clear: left;
+
+height: 100px;
+background-color: red;
+}
+
+.clear4{
+height: 100px;
+background-color: red;
+}
+
+.platzmachen{
+margin-top:250px;
+}
+
+.clear2{
+clear: right;
+
+height: 100px;
+background-color: red;
+}
+
+.clear3{
+clear: both;
+
+height: 100px;
+background-color: red;
+}
